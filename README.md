@@ -4,22 +4,23 @@
 <br>
 
 
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<h2>About me</h2>
 
 <picture> <img align="right" src="sp702.jpg" width = 250px></picture>
 
 <br>
 
-📊 Data Enthusiast | 🚀 Problem-Solving Advocate | 🌟 Exploring Opportunities
-🎓 Pursuing MS in Quantitative Management - Business Analytics @ Duke University's Fuqua School of Business
-🌈 4 years of dynamic experience, including Head of Data Analysis, driving growth strategies
-🧩 Crafting visual narratives to guide strategy, empowering businesses with data-driven insights
-🛠️ Proficient in Python, R, Snowflake, GitHub, Airflow, CI/CD, SQL, PostgreSQL
-🚀 Bringing academic rigor and hands-on expertise to innovate and drive data initiatives
-🌐 Seeking data-driven teams to contribute insights and propel decisions forward. Let's connect!
-  
+
+📊 Data Enthusiast | 🚀 Problem-Solving Advocate | 🌟 Exploring Opportunities<br>
+🎓 Pursuing MS in Quantitative Management 2 @ Duke University<br>
+🌈 4 years of experience, including Head of Data Analysis, driving growth strategies<br>
+🧩 Crafting visual narratives and empowering businesses with data-driven insights</br> 
+🛠️ Proficient in Python, R, Snowflake, GitHub, Airflow, CI/CD, SQL, Tableau<br>
+🛢️Currently into data engineering and crafting robust ETL pipelines <br>
+🚀 Bringing academic rigor and hands-on expertise to drive data initiatives<br>
+📚 Constantly leveraging new techniques for informed decision-making<br>
+🌐 Seeking data-driven teams to contribute insights and propel decisions forward. Let's connect!<br>
+
 
 <br><br>
 
