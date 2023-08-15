@@ -12,7 +12,7 @@
 
 
 📊 Data Enthusiast | 🚀 Problem-Solving Advocate | 🌟 Exploring Opportunities<br>
-🎓 Pursuing MS in Quantitative Management 2 @ Duke University<br>
+🎓 Pursuing MS in Quantitative Management @ Duke University<br>
 🌈 4 years of experience, including Head of Data Analysis, driving growth strategies<br>
 🧩 Crafting visual narratives and empowering businesses with data-driven insights</br> 
 🛠️ Proficient in Python, R, Snowflake, GitHub, Airflow, CI/CD, SQL, Tableau<br>
