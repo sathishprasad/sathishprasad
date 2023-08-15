@@ -2,8 +2,8 @@
 <h1 align="center"><b>Hello World , I'm Sathish Prasad V T </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Enthusiast;Self-taught Data Analyst;+Data+Scientist in making;Pursuing-Masters in+Quantitative Management;A Future+Ready+Asset:"></a>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Enthusiast;Self-taught+Data+Analyst;Data+Scientist+in+making;Pursuing+Masters+in+Quantitative+Management;A+Future+Ready+Asset:"></a>
+
 
 
 <br>
