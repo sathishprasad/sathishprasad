@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hello World , I'm Sathish Prasad V T </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Enthusiast;Self-taught+Data-Analyst,;Future+Data+Scientist,;Pursuing-Masters-in+Quantitative-Management:-Business-Analytics,;A-Future+Ready+Asset:"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Enthusiast;Self-taught Data Analyst;+Data+Scientist in making;Pursuing-Masters in+Quantitative Management;A Future+Ready+Asset:"></a>
 </p>
 
 
@@ -17,11 +17,13 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+📊 Data Enthusiast | 🚀 Problem-Solving Advocate | 🌟 Exploring Opportunities
+🎓 Pursuing MS in Quantitative Management - Business Analytics @ Duke University's Fuqua School of Business
+🌈 4 years of dynamic experience, including Head of Data Analysis, driving growth strategies
+🧩 Crafting visual narratives to guide strategy, empowering businesses with data-driven insights
+🛠️ Proficient in Python, R, Snowflake, GitHub, Airflow, CI/CD, SQL, PostgreSQL
+🚀 Bringing academic rigor and hands-on expertise to innovate and drive data initiatives
+🌐 Seeking data-driven teams to contribute insights and propel decisions forward. Let's connect!
 
 <br><br>
 
