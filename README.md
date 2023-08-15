@@ -6,7 +6,7 @@
 
 <h2>About me</h2>
 
-<picture> <img align="right" src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm.gif" width = 200px></picture>
+<picture> <img align="right" src="[https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm](https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47eeieayf6mr6jr84oxpcok3cnwqpjx3f5wmlycfx9&ep=v1_gifs_search&rid=giphy.gif&ct=g).gif" width = 200px></picture>
 
 <br>
 
