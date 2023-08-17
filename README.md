@@ -22,7 +22,7 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a target="_blank" rel="noreferrer">
+<p align="center"><a target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
       alt="R" width="60" height="40" /> </a> </a> <atarget="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"
@@ -59,16 +59,6 @@
       alt="heroku" width="40" height="40" /> 
       </a> 
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Connect with me</h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/sathish11"><img src="https://github.com/sathishprasad/sathishprasad/blob/main/Unknown.png"  width="30" height="30"/></a>
-<a href="mailto:vtsathishprasad@gmail.com"><img src="https://github.com/sathishprasad/sathishprasad/blob/main/Gmail_Logo_512px.png" width="35" height="30" /></a>
-<a href="mailto:sathish.prasadvt@duke.edu"><img src="https://github.com/sathishprasad/sathishprasad/blob/main/Microsoft_Office_Outlook_(2018–present).svg.png" width="35" height="30"/></a>
-<a href="https://twitter/SathishPrasadVT"><img src="https://github.com/sathishprasad/sathishprasad/blob/main/5lY42eHs_400x400.jpg" width="30" height="30"/></a>
-
-
 <!--
 **sathishprasad/sathishprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
