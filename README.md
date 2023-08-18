@@ -1,11 +1,15 @@
 
 <h1 align="center"><b>Hello World , I'm Sathish Prasad V T </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"
-  </h1>
-<p align="center"> 
+                                                                 
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <p align="center"> 
   <img src="https://profile-counter.glitch.me/sathishprasad/count.svg" />
-</p>
+</p></h1>
 <!--  -->
-<h2>About me</h2>
+<h2>About me
+</h2>
 
 <picture> <img align="right" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47eeieayf6mr6jr84oxpcok3cnwqpjx3f5wmlycfx9&ep=v1_gifs_search&rid=giphy.gif&ct=g.webp" width = 250px></picture>
 
