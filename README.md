@@ -3,13 +3,12 @@
                                                                  
   
   &nbsp;
-  </h1>
   <p align="center"> 
   <img src="https://profile-counter.glitch.me/sathishprasad/count.svg" />
 </p>
+  </h1>
+  
 <!--  -->
-<h2>About me
-</h2>
 
 <picture> <img align="right" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47eeieayf6mr6jr84oxpcok3cnwqpjx3f5wmlycfx9&ep=v1_gifs_search&rid=giphy.gif&ct=g.webp" width = 250px></picture>
 
@@ -25,7 +24,7 @@
 🚀 Bringing academic rigor and hands-on expertise to drive data initiatives<br>
 📚 Constantly leveraging new techniques for informed decision-making<br>
 🌐 Seeking data-driven teams to contribute insights and propel decisions forward. Let's connect!<br>
-<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"><a target="_blank" rel="noreferrer">
