@@ -15,15 +15,15 @@
 <br>
 
 
-📊 Data Enthusiast | 🚀 Problem-Solving Advocate | 🌟 Exploring Opportunities<br>
-🎓 Pursuing MS in Quantitative Management @ Duke University<br>
-🌈 4 years of experience, including Head of Data Analysis, driving growth strategies<br>
-🧩 Crafting visual narratives and empowering businesses with data-driven insights</br> 
-🛠️ Proficient in Python, R, Snowflake, GitHub, Airflow, CI/CD, SQL, Tableau<br>
-🛢️Currently into data engineering and crafting robust ETL pipelines <br>
-🚀 Bringing academic rigor and hands-on expertise to drive data initiatives<br>
-📚 Constantly leveraging new techniques for informed decision-making<br>
-🌐 Seeking data-driven teams to contribute insights and propel decisions forward. Let's connect!<br>
+- Data Enthusiast | 🚀 Problem-Solving Advocate | 🌟 Exploring Opportunities<br>
+- Pursuing MS in Quantitative Management @ Duke University<br>
+- 4 years of experience, including Head of Data Analysis, driving growth strategies<br>
+- Crafting visual narratives and empowering businesses with data-driven insights</br> 
+- Proficient in Python, R, Snowflake, GitHub, Airflow, CI/CD, SQL, Tableau<br>
+- Currently into data engineering and crafting robust ETL pipelines <br>
+- Bringing academic rigor and hands-on expertise to drive data initiatives<br>
+- Constantly leveraging new techniques for informed decision-making<br>
+-  Seeking data-driven teams to contribute insights and propel decisions forward. Let's connect!<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h3 align="left">Languages and Tools:</h3>
