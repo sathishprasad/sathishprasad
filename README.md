@@ -48,12 +48,6 @@
     <img src="https://github.com/sathishprasad/sathishprasad/blob/main/snowflake-png.webp"
       alt="SQL" width="35" height="40" /> </a> 
       <a target="_blank" rel="noreferrer">
-    <img src="https://github.com/sathishprasad/sathishprasad/blob/main/1024px-Amazon_Web_Services_Logo.svg.png"
-      alt="SQL" width="60" height="40" /> </a> 
-      <a target="_blank" rel="noreferrer">
-    <img src="https://github.com/sathishprasad/sathishprasad/blob/main/AirflowLogo.png"
-      alt="SQL" width="100" height="40" /> </a> 
-      <a target="_blank" rel="noreferrer">
     <img src="https://github.com/sathishprasad/sathishprasad/blob/main/Selenium_Logo.png"
       alt="SQL" width="40" height="40" /> </a> 
       <a target="_blank" rel="noreferrer">
